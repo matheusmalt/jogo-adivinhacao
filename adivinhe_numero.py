@@ -1,5 +1,5 @@
 '''
-File: adivinhacao.py
+File: adivinhe_numero.py
 Author: Matheus Malta
 Description: Jogo simples de adivinhacao
 '''
